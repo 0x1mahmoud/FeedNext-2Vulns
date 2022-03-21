@@ -6,7 +6,9 @@
 - The installation process in Open edX before 2017-01-10 exposes a MongoDB instance to external connections with default credentials.
 - The vulnerable section in the picture below - it's because MongoDB old version
 - Severity = Critical
-[Image of mahmoudashraf1344](https://github.com/0x1mahmoud/FeedNext-2Vulns/blob/main/images/MonoDB.png)
+
+![alt text](https://raw.githubusercontent.com/0x1mahmoud/FeedNext-2Vulns/main/images/MonoDB.png)
+
 -----------------------------------------------------------------------------------------
 ### The Second One is CVE-2020-28168:
 #### Description:
@@ -14,4 +16,7 @@
 - The vulnerable section in the picture below - it's because axios old version should be patched in version "0.21.1"
 - Server-Side Request Forgery in Axios Found in
 - Severity = High
-[Image of mahmoudashraf1344](https://github.com/0x1mahmoud/FeedNext-2Vulns/blob/main/images/axios.png)
+
+![alt text](https://raw.githubusercontent.com/0x1mahmoud/FeedNext-2Vulns/main/images/axios.png)
+
+-----------------------------------------------------------------------------------------
